@@ -1,6 +1,6 @@
 # My Corona
 
-Just four Jupyter Notebooks I've used to analyse COVID-19 data provided by [JHU
+Just some Jupyter Notebooks I've used to analyse COVID-19 data provided by [JHU
 CSSE](https://systems.jhu.edu/)
 
 You need a Python evironment with Pandas and Matplotlib installed. Start with `COVID-19 Confirmed Time
